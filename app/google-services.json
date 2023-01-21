@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1076588687690",
+    "firebase_url": "https://mobiledevicemanagement-eac29.firebaseio.com",
+    "project_id": "mobiledevicemanagement-eac29",
+    "storage_bucket": "mobiledevicemanagement-eac29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076588687690:android:a871482bfe7deaf7ea51b3",
+        "android_client_info": {
+          "package_name": "com.example.mohdma.mobiledevicemanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076588687690-urt0uclt5bg71ibi46up87hf58o2h2sn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0aiKzBIa3lOQMJ5B-EFIEI07fmltXO7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076588687690-urt0uclt5bg71ibi46up87hf58o2h2sn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
